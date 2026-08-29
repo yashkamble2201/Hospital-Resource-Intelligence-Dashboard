@@ -1,7 +1,7 @@
 # 🏥 Hospital Resource Intelligence Dashboard
 
 <p align="center">
-  <img src="C:\Users\kambl\OneDrive\Documents\Projects\Hospital Resource Intelligence Dashboard\images\dashboard_preview.png" alt="Hospital Resource Intelligence Dashboard" width="1000">
+  <img src="images/dashboard.png" alt="Hospital Resource Intelligence Dashboard" width="900">
 </p>
 
 <p align="center">
